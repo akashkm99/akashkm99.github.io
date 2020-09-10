@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors | M Akash Kumar</title>
+    <link>https://akashkm99.github.io/authors/</link>
+      <atom:link href="https://akashkm99.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
+    <description>Authors</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Akash Kumar M</title>
+      <link>https://akashkm99.github.io/authors/akash-kumar-m/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://akashkm99.github.io/authors/akash-kumar-m/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Balaji Vasan Srinivasan</title>
+      <link>https://akashkm99.github.io/authors/balaji-vasan-srinivasan/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://akashkm99.github.io/authors/balaji-vasan-srinivasan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Balaraman Ravindran</title>
+      <link>https://akashkm99.github.io/authors/balaraman-ravindran/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://akashkm99.github.io/authors/balaraman-ravindran/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mitesh M. Khapra</title>
+      <link>https://akashkm99.github.io/authors/mitesh-m.-khapra/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://akashkm99.github.io/authors/mitesh-m.-khapra/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Preksha Nema</title>
+      <link>https://akashkm99.github.io/authors/preksha-nema/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://akashkm99.github.io/authors/preksha-nema/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sharan Narasimhan</title>
+      <link>https://akashkm99.github.io/authors/sharan-narasimhan/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://akashkm99.github.io/authors/sharan-narasimhan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://akashkm99.github.io/authors/admin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://akashkm99.github.io/authors/admin/</guid>
+      <description>&lt;p&gt;Hi, I’m Akash! I’m a 5th-year Dual Degree student, advised by 
+&lt;a href=&#34;https://www.cse.iitm.ac.in/~miteshk/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Prof. Mitesh Khapra,&lt;/a&gt;
+ at Indian Institute of Technology Madras.&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;m passionate about exploring new areas that can solve important real-life problems. I primarily work in the field of Machine Learning and its applications in Natural Language Processing. I have published a few papers in top conferences and journals such as TACL, ACL, EMNLP. I have worked as an intern at startups, research labs, and corporates.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
