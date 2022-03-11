@@ -5,7 +5,44 @@
     <link>https://akashkm99.github.io/authors/akash-kumar-m/</link>
       <atom:link href="https://akashkm99.github.io/authors/akash-kumar-m/index.xml" rel="self" type="application/rss+xml" />
     <description>Akash Kumar M</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Mar 2022 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Active Evaluation: Efficient NLG Evaluation with Few Pairwise Comparisons</title>
+      <link>https://akashkm99.github.io/publication/acl2022/</link>
+      <pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://akashkm99.github.io/publication/acl2022/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Supplementary notes can be added here, including 
+&lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;
+.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Diversity driven Query Rewriting in Search Advertising</title>
+      <link>https://akashkm99.github.io/publication/kdd2021/</link>
+      <pubDate>Sat, 01 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://akashkm99.github.io/publication/kdd2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Survey of Evaluation Metrics Used for NLG Systems</title>
+      <link>https://akashkm99.github.io/publication/csur2021/</link>
+      <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://akashkm99.github.io/publication/csur2021/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Improving Dialog Evaluation with a Multi-reference Adversarial Dataset and Large Scale Pretraining</title>
       <link>https://akashkm99.github.io/publication/tacl2020/</link>

@@ -5,12 +5,20 @@
     <link>https://akashkm99.github.io/publication_types/2/</link>
       <atom:link href="https://akashkm99.github.io/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
     <description>2</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Apr 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>2</title>
       <link>https://akashkm99.github.io/publication_types/2/</link>
     </image>
+    
+    <item>
+      <title>A Survey of Evaluation Metrics Used for NLG Systems</title>
+      <link>https://akashkm99.github.io/publication/csur2021/</link>
+      <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://akashkm99.github.io/publication/csur2021/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Improving Dialog Evaluation with a Multi-reference Adversarial Dataset and Large Scale Pretraining</title>

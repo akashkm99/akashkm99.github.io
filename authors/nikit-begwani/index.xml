@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Nikit Begwani | M Akash Kumar</title>
+    <link>https://akashkm99.github.io/authors/nikit-begwani/</link>
+      <atom:link href="https://akashkm99.github.io/authors/nikit-begwani/index.xml" rel="self" type="application/rss+xml" />
+    <description>Nikit Begwani</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 May 2021 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Diversity driven Query Rewriting in Search Advertising</title>
+      <link>https://akashkm99.github.io/publication/kdd2021/</link>
+      <pubDate>Sat, 01 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://akashkm99.github.io/publication/kdd2021/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

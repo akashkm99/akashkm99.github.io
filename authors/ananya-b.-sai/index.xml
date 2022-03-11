@@ -1,11 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Ananya B. Sai* | M Akash Kumar</title>
+    <title>Ananya B. Sai | M Akash Kumar</title>
     <link>https://akashkm99.github.io/authors/ananya-b.-sai/</link>
       <atom:link href="https://akashkm99.github.io/authors/ananya-b.-sai/index.xml" rel="self" type="application/rss+xml" />
-    <description>Ananya B. Sai*</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <description>Ananya B. Sai</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Apr 2021 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>A Survey of Evaluation Metrics Used for NLG Systems</title>
+      <link>https://akashkm99.github.io/publication/csur2021/</link>
+      <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://akashkm99.github.io/publication/csur2021/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Improving Dialog Evaluation with a Multi-reference Adversarial Dataset and Large Scale Pretraining</title>
       <link>https://akashkm99.github.io/publication/tacl2020/</link>
